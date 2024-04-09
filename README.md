@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎯 
 -->
 
 ### Hi there 👋
 
 <details open>
-  <summary>My Skills</summary>
+  <summary>💻 My Skills</summary>
   <br>
   
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,3 +30,11 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
  
 </details>
+
+
+<details>
+  <summary></summary>
+</details>
+
+
+![Soowagger's github stats](https://github-readme-stats.vercel.app/api?username=Soowagger&show_icons=true)
