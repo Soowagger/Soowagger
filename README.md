@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 - 🎯 
 -->
 
-## 💻 My log
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=false&repeat=false&width=1000&height=100&lines=Welcome+to+Soomin's+GitHub!👋)](https://git.io/typing-svg)
 
+## 💻 SM's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@soowagger">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-
 </div>
+
 <br>
 
 
-## 🛠 My Skills
-  <br>
+## 🛠 My Skills 🛠
   
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
  
 
 
+<br>
 
-
-![Soowagger's github stats](https://github-readme-stats.vercel.app/api?username=Soowagger&show_icons=true)
+![Soowagger's github stats](https://github-readme-stats.vercel.app/api?username=Soowagger&show_icons=true&theme=transparent)
 
 </div>
